@@ -4,7 +4,7 @@
 ### 🚀 *Full-stack Tinkerer • Average 14 yr old • Hardware Enthusiast • Low Level Mad*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;Arduino+%2B+Web+Development+%E2%9A%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1;Systems+programming+%3E+ML+%F0%9F%94%A5;Just+code+it+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;Rust+%2B+Web+Development+%E2%9A%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1;Systems+programming+%3E+ML+%F0%9F%94%A5;Just+code+it+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,11 +17,11 @@
 const arjan = {
     pronouns: "he/him",
     location: "🌍 India",
-    currentFocus: ["Arduino Projects", "Web Dev", "Systems Programming"],
+    currentFocus: ["Arduino Projects", "Web Dev", "Systems Programming","Rust"],
     languages: ["Java", "Python", "Rust", "JavaScript", "C++", "Flutter"],
     askMeAbout: ["Web Dev", "Arduino", "Hardware Hacking", "Open Source"],
     funFact: "Systems programming better than ML.",
-    motto: "Just code it! 💪"
+    motto: "I use helix btw"
 };
 ```
 
@@ -97,7 +97,7 @@ const arjan = {
 ## 🔥 **What I'm Building**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=%F0%9F%8C%90+Developer+Portfolio+-+Showcasing+my+journey;%F0%9F%94%A7+Chrome+Extension+Tools+-+Productivity+boosters;%F0%9F%93%B1+Mobile-First+Web+Apps+-+Modern%2C+responsive+designs;%F0%9F%A4%96+Arduino+IoT+Projects+-+Hardware+meets+software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=%F0%9F%8C%90+Developer+Portfolio+-+Showcasing+my+journey;%F0%9F%94%A7+Chrome+Extension+Tools+-+Productivity+boosters;%F0%9F%93%B1+Mobile-First+Web+Apps+-+Modern%2C+responsive+designs;%F0%9F%A4%96+Rust+ClI+Apps+-+Shell+meets+innovation" />
 </p>
 
 ### 🎯 **Project Showcase**
@@ -106,12 +106,12 @@ const arjan = {
 <tr>
 <td width="50%">
 
-#### 🌐 **Web Development**
+#### 🌐 **Rust**
 ```javascript
 const currentProjects = {
-  portfolio: "Next.js + TypeScript",
-  webApps: "React + TailwindCSS",
-  backend: "Node.js + Express"
+  sheller: "my own command prompt!"
+  apps: "Toso-list in your command prompt!",
+  graphics: "Iced and Tauri! "
 };
 ```
 

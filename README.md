@@ -9,7 +9,7 @@ const arjan = {
     pronouns: "he/him",
     location: "🌍 India",
     currentFocus: ["Arduino Projects", "Web Dev", "Systems Programming","Rust"],
-    languages: ["Java", "Python", "Rust", "JavaScript", "C++", "Flutter"],
+    languages: ["Java", "Python", "Rust", "JavaScript", "Flutter"],
     askMeAbout: ["Web Dev", "Arduino", "Hardware Hacking", "Open Source"],
     funFact: "Systems programming better than ML.",
     motto: "I use helix btw"
